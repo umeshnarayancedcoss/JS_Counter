@@ -1,0 +1,27 @@
+/* CSS for number box where value is showed */
+.number {
+    height:64px; 
+    width:100px;
+    border-radius: 5px;
+    font-size:25px;
+    text-align: center;
+    border: 2px solid #d3d3d3; 
+}
+/* CSS for decrement box (-) */
+ #decrement{
+    height:70px; 
+    width:100px; 
+    background-color: #d3d3d3;  
+    border-radius: 5px;
+    font-size:25px;
+    border:2px solid #d3d3d3; 
+}
+/* CSS for increment box (+) */
+#increment{
+    height:70px; 
+    width:100px;   
+    background-color:#d3d3d3; 
+    border-radius: 5px;
+    font-size:25px;
+    border:2px solid #d3d3d3;  
+}
